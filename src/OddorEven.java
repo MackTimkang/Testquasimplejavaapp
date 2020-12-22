@@ -161,6 +161,8 @@ public class OddorEven extends javax.swing.JFrame {
     private void b2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b2MouseClicked
        tf1.setText(null);
        tf2.setText(null);
+      
+       
     }//GEN-LAST:event_b2MouseClicked
 
     /**
